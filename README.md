@@ -1,6 +1,6 @@
 # Robustness differences in fine tuning and pre training
 
-In this repository there are all the scripts we have used to perform the tests and record our results.
+In this repository there are all the scripts we have used to perform the tests and record our results. Function definitions can be found in utils.py.
 
 Under each folder there is a `readme.md` that contains additional information on the code. The repository as is cannot be run directly since the pretraining dataset was too large to upload. Furthermore almost every script is supposed to be run from the root directory (where this file is) due to relative paths.
 
