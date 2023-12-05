@@ -6,3 +6,5 @@ Under each folder there is a `readme.md` that contains additional information on
 
 ### Images and logs
 We have logged both on WandB and with `.json` files. In the repository there is only the latter and therefore they are not complete. Under `Logged robustness` it is possible to find the logs of the fine-tuning and under `Figure` there are many plots we looked at and some of which are also in the report. Other plots can be found in the outputs of `merge_plots.ipynb` together with functions to plot specific logs.
+
+[report-1.pdf](https://github.com/DarioFi/Robustness-and-finetuning/files/13572885/report-1.pdf)
